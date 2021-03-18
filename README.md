@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sash1425
-- 👀 I’m interested in Problem solving with help of Data Structures and Algorithms.
+- 👀 I’m interested in Real Problem solving with help of Data Structures and Algorithms.
 - 🌱 I’m currently learning Web development via Django Framwork.
 - 💞️ I’m looking to collaborate on Django and Open Source Development.
 - 📫 Reach me via Email Er.santoshkumar123@gmail.com
